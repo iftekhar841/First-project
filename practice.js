@@ -103,6 +103,7 @@
 //         o_count++
 //     }
 // }
+// 
 
 // console.log('the total even no is', e_count);
 // console.log('the total odd no is', o_count);

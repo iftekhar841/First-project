@@ -174,17 +174,20 @@
 
 // Ques :- 9 wap to print triangle hollow patterns 
 
-let n =5;
-let str = "";
+// let n =5;
+// let str = "";
 
-for(let i =1; i<=n; i++) {
-    for(let j =1; j<=i; j++) {
-        if( i == n || j == i || j == 1)  {
-         str += j + " ";
-    } else {
-        str += "  ";
-    }
-}
-    str += "\n";
-}
-console.log(str);
+// for(let i =1; i<=n; i++) {
+//     for(let j =1; j<=i; j++) {
+//         if( i == n || j == i || j == 1)  {
+//          str += j + " ";
+//     } else {
+//         str += "  ";
+//     }
+// }
+//     str += "\n";
+// }
+// console.log(str);
+
+const arr  = [1,2,3,4,5];
+console.log(arr);

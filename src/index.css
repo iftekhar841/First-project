@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.calc{
+  width: 320px;
+  margin:100px auto;
+}
+
+#answer{
+  background-color: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid #333;
+}
+
+.button{
+  background-color: #333;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  float: left;
+  border: 1px solid black;
+}
+
+
+.button1{
+  width: 160px;
+  background-color: #333;
+  height: 80px;
+  /* width: 80px; */
+  color: white;
+  font-size: 30px;
+  float: left;
+  border: 1px solid black;
+}
